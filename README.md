@@ -15,3 +15,14 @@ Vyzkoušejte [APP](https://forkify-lb.netlify.app/)!
 * načítání záložek z local storage API 
 * vytvoření vlastního receptu s automatickým vytvořením založky
 * uživatel vidí pouze vlastní přidané recepty
+
+### Postup pro spuštění
+Instalace
+```
+npm install
+```
+
+Run development
+```
+npm start
+```
